@@ -1,12 +1,9 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - title: Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models
+    authors: Kening Zheng*, <strong>Junkai Chen*</strong>, Yibo Yan, Xin Zou, Xuming Hu (*Corresponding authors)
+    conference: Under Review
+    pdf: https://arxiv.org/pdf/2408.09429
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
 
