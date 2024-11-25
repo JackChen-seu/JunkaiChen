@@ -6,7 +6,7 @@
 
 <ul>
   <li><strong>Biography:</strong> 《The Pianist》 《Oppenheimer》 《Bohemian Rhapsody》</li>
-  <li><strong>Philosophy:</strong> 《The Book of Why》 《The Structure of Scientific Revolutions》 《The Big Questions: A Short Introduction to Philosophy》</li>
+  <li><strong>Animation:</strong> 《君たちはどう生きるか》 《パプリカ》 《新世紀エヴァンゲリオン劇場版 Air/まごころを、君に》</li>
   <li><strong>Literature:</strong> 《百年孤独》 《战争与和平》 《三国演义》</li>
 </ul>
 
