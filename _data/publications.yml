@@ -5,7 +5,7 @@ main:
     conference_short: Under Review
     conference: Under Review
     pdf: https://arxiv.org/pdf/2408.09429
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/paper1.png
 
   - title: "Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models"
     authors: Xin Zou, Yizhou Wang, Yibo Yan, Sirui Huang, Kening Zheng, <strong>Junkai Chen</strong>, Chang Tang, Xuming Hu
@@ -14,3 +14,10 @@ main:
     pdf: https://arxiv.org/pdf/2410.03577
     code: https://github.com/1zhou-Wang/MemVR
     image: ./assets/img/paper2.png
+
+  - title: "Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens"
+    authors: Zhangqi Jiang, <strong>Junkai Chen</strong>, Beier Zhu, Tingjin Luo, Yankun Shen, Xu Yang 
+    conference_short: Under Review
+    conference: Under Review
+    pdf: https://arxiv.org/pdf/2410.03577
+    image: ./assets/img/paper3.png
