@@ -14,11 +14,11 @@ I am very fortunate to be advised by [Prof. Yang](https://yangxuntu.github.io) f
 - **Diffusion Model:** Flow Matching, Rectified Flow
 
 ## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+   
+- **[Apr. 2024]** 🔥Our projects **In context Learning in Large Visual Language Models** are funded by [Key Laboratory of New Generation Artificial Intelligence Technology & Its Interdisciplinary Applications (Southeast University), Ministry of Education, China](https://aiia.seu.edu.cn/main.htm)
+- **[Aug. 2024]** 🔥We present **Reefknot**, a comprehensive benchmark for Relation Hallucination Evaluation in Multimodal Large Language Models
+- **[Oct. 2024]** 🔥We present **MemVR**, a novel hallucination mitigation paradigm without needing external knowledge retrieval or additional fine-tuning. 
+- **[Oct. 2024]** 🚀Source code of MemVR has been released!
 
 {% include_relative _includes/publications.md %}
 
