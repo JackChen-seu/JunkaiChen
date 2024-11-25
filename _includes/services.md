@@ -7,7 +7,7 @@
 <ul>
   <li><strong>Biography:</strong> 《The Pianist》 《Oppenheimer》 《Bohemian Rhapsody》</li>
   <li><strong>Animation:</strong> 《君たちはどう生きるか》 《パプリカ》 《新世紀エヴァンゲリオン劇場版 Air/まごころを、君に》</li>
-  <li><strong>Romance:</strong> 《Annie Hall》 《Der Himmel über Berlin》 《The Purple Rose of Cairo》 《The Purple Rose of Cairo》</li>
+  <li><strong>Romance:</strong> 《Annie Hall》 《Der Himmel über Berlin》 《The Purple Rose of Cairo》</li>
 </ul>
 
 <p>Some recommended books:</p>
