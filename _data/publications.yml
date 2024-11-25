@@ -6,15 +6,11 @@ main:
     conference: Under Review
     pdf: https://arxiv.org/pdf/2408.09429
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+  - title: "Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models"
+    authors: Xin Zou, Yizhou Wang, Yibo Yan, Sirui Huang, Kening Zheng, <strong>Junkai Chen</strong>, Chang Tang, Xuming Hu
+    conference_short: Under Review
+    conference: Under Review
+    pdf: https://arxiv.org/pdf/2410.03577
+    code: https://github.com/1zhou-Wang/MemVR
     image: ./assets/img/teaser_example.png
