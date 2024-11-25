@@ -22,5 +22,5 @@
 
 <ul>
   <li><strong>The Beatles:</strong> 《Sgt.Pepper's Lonely Hearts Club Band》 《Rubber Soul》 《Abbey Road》</li>
-  <li><strong>Poem:</strong> 《海子的诗》 《另一个，同一个》 《Leaves of Grass》</li>
+  <li><strong>Bob Dylan:</strong> 《Highway 61 Revisited》 《The Freewheelin' Bob Dylan》</li>
 </ul>
