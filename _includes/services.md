@@ -21,6 +21,6 @@
 <p>Some recommended albums:</p>
 
 <ul>
-  <li><strong>Novel:</strong> 《Nesnesitelná lehkost bytí》 《Бра́тья Карама́зовы》 《Il barone rampante》</li>
+  <li><strong>The Beatles:</strong> 《Sgt.Pepper's Lonely Hearts Club Band》 《Rubber Soul》 《Abbey Road》</li>
   <li><strong>Poem:</strong> 《海子的诗》 《另一个，同一个》 《Leaves of Grass》</li>
 </ul>
