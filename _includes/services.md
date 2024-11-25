@@ -21,6 +21,6 @@
 <p>Some recommended albums:</p>
 
 <ul>
-  <li><strong>The Beatles:</strong> 《Sgt.Pepper's Lonely Hearts Club Band》 《Rubber Soul》 《Abbey Road》</li>
-  <li><strong>Bob Dylan:</strong> 《Highway 61 Revisited》 《The Freewheelin' Bob Dylan》</li>
+  <li><strong>Rock:</strong> 《Sgt.Pepper's Lonely Hearts Club Band》 《The Dark Side Of The Moon》</li>
+  <li><strong>Classical:</strong> 《肖邦第一钢琴协奏曲》 《拉赫玛尼诺夫第二钢琴协奏曲》 《德沃夏克第九交响曲》 《哥德堡变奏曲》</li>
 </ul>
