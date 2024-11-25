@@ -2,7 +2,7 @@ main:
 
   - title: "Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models"
     authors: Kening Zheng*, <strong>Junkai Chen*</strong>, Yibo Yan, Xin Zou, Xuming Hu (*Corresponding authors)
-    conference_short: CVPR
+    conference_short: Under Review
     conference: Under Review
     pdf: https://arxiv.org/pdf/2408.09429
     image: ./assets/img/teaser_example_2.png
