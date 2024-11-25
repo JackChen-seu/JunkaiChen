@@ -1,16 +1,11 @@
-## Services
+## Mics
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<p>When I have some available time, I usually read, swim, and run. I have ubiquitous interest on different topics of the books, including Computer Science, Philosophy, History, Politics, Literature, and Detective Fiction.</p>
 
-<ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
-</ul>
+<p>Some recommended books:</p>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
-
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+<ul>
+  <li><strong>Research:</strong> 《How To Read a Book》 《Style, Toward Clarity and Grace》 《The Craft of Research》</li>
+  <li><strong>Philosophy:</strong> 《The Book of Why》 《The Structure of Scientific Revolutions》 《The Big Questions: A Short Introduction to Philosophy》</li>
+  <li><strong>Literature:</strong> 《百年孤独》 《战争与和平》 《三国演义》</li>
 </ul>
