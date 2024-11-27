@@ -1,6 +1,6 @@
 ## Mics
 
-<p>In my free time, I like to read, listen to music, watch movies.</p>
+<p>In my free time, I like to read, listen to music, watch movies, photography.</p>
 
 <p>Some recommended movies:</p>
 
