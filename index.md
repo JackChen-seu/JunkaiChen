@@ -19,6 +19,7 @@ I am very fortunate to be advised by [Prof. Yang](https://yangxuntu.github.io) f
 - **[Aug. 2024]** 🔥We present **Reefknot**, a comprehensive benchmark for Relation Hallucination Evaluation in Multimodal Large Language Models
 - **[Oct. 2024]** 🔥We present **MemVR**, a novel hallucination mitigation paradigm without needing external knowledge retrieval or additional fine-tuning. 
 - **[Oct. 2024]** 🚀Source code of MemVR has been released!
+- **[Dec. 2024]** 🔥We present the paper: Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens.
 
 {% include_relative _includes/publications.md %}
 
