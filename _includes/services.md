@@ -1,3 +1,7 @@
+## Internship
+
+**[Jun. 2024 - Aug. 2024]** The Hong Kong University of Science and Technology (Guangzhou) Supervised by Prof.Hu
+
 ## Mics
 
 <p>In my free time, I like to read, listen to music, watch movies, photography.</p>
