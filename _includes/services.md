@@ -1,6 +1,8 @@
 ## Internship
 
-**[Jun. 2024 - Aug. 2024]** The Hong Kong University of Science and Technology (Guangzhou) Supervised by Prof.Hu
+**[Jun. 2024 - Aug. 2024]** HKUST (GZ) Supervised by Prof.Hu
+
+I am seeking a winter and summer internship or visitor student position for 2026~
 
 ## Mics
 
