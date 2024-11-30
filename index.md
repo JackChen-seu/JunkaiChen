@@ -8,6 +8,8 @@ I'm a third year undergraduate student from [School of Artificial Intelligence](
 
 I am very fortunate to be advised by [Prof. Yang](https://yangxuntu.github.io) from [School of School of Artificial Intelligence](https://ai.seu.edu.cn), [Southeast University](https://www.seu.edu.cn). During this period, I focused on ICL abilities in MLLM and on hallucination in MLLM.
 
+I am seeking for mphil or Phd position of 26fall. If you are interested in my research and would like to give me an interview, please contact me by email~
+
 ## Research Interests
 
 - **Multimodal Large Language Model:** Hallucination, Unlearning, Safety
