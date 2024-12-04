@@ -22,7 +22,7 @@ I am seeking for **mphil or Phd position of 26fall**. If you are interested in m
 - **[Oct. 2024]** 🔥We present **MemVR**, a novel hallucination mitigation paradigm without needing external knowledge retrieval or additional fine-tuning. 
 - **[Oct. 2024]** 🚀Source code of MemVR has been released!
 - **[Dec. 2024]** 🔥We present the paper: **Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens**.
-- **[Nov. 2024]** 🥈We win the **silver medal(Top 5%)** in [UM - Game-Playing Strength of MCTS Variants](https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants/overview)
+- **[Nov. 2024]** 🥉We win the **Bronze Medal(Top 10%)** in [UM - Game-Playing Strength of MCTS Variants](https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants/overview)
 
 {% include_relative _includes/publications.md %}
 
