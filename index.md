@@ -12,8 +12,7 @@ I am seeking for **mphil or Phd position of 26fall**. If you are interested in m
 
 ## Research Interests
 
-- **Multimodal Large Language Model:** Hallucination, Unlearning, Safety
-- **Diffusion Model:** Flow Matching, Rectified Flow
+- **Multimodal Large Language Model:** Hallucination, Interpretability, Machine Unlearning
 
 ## News
    
