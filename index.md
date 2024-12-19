@@ -22,7 +22,7 @@ I am seeking for **mphil or Phd position of 26fall**~
 - **[Oct. 2024]** 🚀Source code of [**MemVR**](https://github.com/1zhou-Wang/MemVR) has been released!
 - **[Nov. 2024]** 🔥We present the paper: **Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens**.
 - **[Nov. 2024]** 🥉We win the **Bronze Medal(Top 10%)** in [UM - Game-Playing Strength of MCTS Variants](https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants/overview)
-- **[Dec. 2024]** 🌟I’m glad to be a contributor to [**OmniEvalKit**](https://github.com/Now-Join-Us/OmniEvalKit). If you find our project useful, please give us a star!
+- **[Dec. 2024]** 🌟I’m glad to be a contributor to [**OmniEvalKit**](https://github.com/Now-Join-Us/OmniEvalKit).
 - **[Dec. 2024]** 🔥I am honored to be a reviewer for [AAAI 2025 Workshop on Preventing and Detecting LLM Misinformation (PDLM)](https://aaai2025-llm-misinformation.github.io).
 
 {% include_relative _includes/publications.md %}
