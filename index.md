@@ -8,7 +8,7 @@ I'm a third year undergraduate student from [School of Artificial Intelligence](
 
 I am very fortunate to be advised by [Prof. Yang](https://yangxuntu.github.io) from [School of School of Artificial Intelligence](https://ai.seu.edu.cn), [Southeast University](https://www.seu.edu.cn). During this period, I focused on ICL abilities in MLLM and on hallucination in MLLM.
 
-I am seeking for **mphil or Phd position of 26fall**. If you are interested in my research and would like to give me an interview, please contact me by email~
+I am seeking for **mphil or Phd position of 26fall**~
 
 ## Research Interests
 
@@ -23,6 +23,7 @@ I am seeking for **mphil or Phd position of 26fall**. If you are interested in m
 - **[Nov. 2024]** 🔥We present the paper: **Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens**.
 - **[Nov. 2024]** 🥉We win the **Bronze Medal(Top 10%)** in [UM - Game-Playing Strength of MCTS Variants](https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants/overview)
 - **[Dec. 2024]** 🌟I’m glad to be a contributor to [**OmniEvalKit**](https://github.com/Now-Join-Us/OmniEvalKit). If you find our project useful, please give us a star!
+- **[Dec. 2024]** 🌟I am honored to be a reviewer for [AAAI 2025 Workshop on Preventing and Detecting LLM Misinformation (PDLM)](https://aaai2025-llm-misinformation.github.io).
 
 {% include_relative _includes/publications.md %}
 
