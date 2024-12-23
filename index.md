@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a third year undergraduate student from [School of Artificial Intelligence](https://ai.seu.edu.cn), [Southeast University](https://www.seu.edu.cn). My research interest includes Computer Vision, Multimodal Large Language Model, Machine Unlearning.
+I'm Junkai Chen, a third year undergraduate student from [School of Artificial Intelligence](https://ai.seu.edu.cn), [Southeast University](https://www.seu.edu.cn). My research interest includes Computer Vision, Multimodal Large Language Model, Machine Unlearning.
 
 I am very fortunate to be advised by [Prof. Yang](https://yangxuntu.github.io) from [School of School of Artificial Intelligence](https://ai.seu.edu.cn), [Southeast University](https://www.seu.edu.cn). During this period, I focused on ICL abilities in MLLM and on hallucination in MLLM.
 
