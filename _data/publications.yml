@@ -21,3 +21,10 @@ main:
     conference: Under Review
     pdf: https://arxiv.org/pdf/2411.16724v1
     image: ./assets/img/paper3.png
+
+  - title: "Speculative Ensemble: Fast Large Language Model Ensemble via Speculation"
+    authors: Jiale Fu*, Yuchu Jiang*, <strong>Junkai Chen</strong>, Jiaming Fan, Xin Geng, Xu Yang 
+    conference_short: Arxiv
+    conference: Under Review
+    pdf: https://arxiv.org/pdf/2411.16724v1
+    image: ./assets/img/paper4.png
