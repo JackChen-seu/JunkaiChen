@@ -26,5 +26,13 @@ main:
     authors: Jiale Fu*, Yuchu Jiang*, <strong>Junkai Chen</strong>, Jiaming Fan, Xin Geng, Xu Yang 
     conference_short: Arxiv
     conference: Under Review
-    pdf: https://arxiv.org/pdf/2411.16724v1
+    pdf: https://arxiv.org/abs/2502.01662
+    code: https://github.com/Kamichanw/Speculative-Ensemble
     image: ./assets/img/paper4.png
+
+  - title: "SAFEERASER: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning"
+    authors: <strong>Junkai Chen*</strong>, Zhijie Deng*, Kening Zheng, Yibo Yan
+    conference_short: Arxiv
+    conference: Under Review
+    pdf: https://arxiv.org/pdf/2502.12520
+    image: ./assets/img/paper5.png
