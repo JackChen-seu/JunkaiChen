@@ -17,15 +17,15 @@ main:
 
   - title: "Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens"
     authors: Zhangqi Jiang, <strong>Junkai Chen</strong>, Beier Zhu, Tingjin Luo, Yankun Shen, Xu Yang 
-    conference_short: Arxiv
-    conference: Under Review
+    conference_short: CVPR 2025
+    conference: Conference on Computer Vision and Pattern Recognition 2025
     pdf: https://arxiv.org/pdf/2411.16724v1
     image: ./assets/img/paper3.png
 
   - title: "Speculative Ensemble: Fast Large Language Model Ensemble via Speculation"
     authors: Jiale Fu*, Yuchu Jiang*, <strong>Junkai Chen</strong>, Jiaming Fan, Xin Geng, Xu Yang 
-    conference_short: CVPR 2025
-    conference: Conference on Computer Vision and Pattern Recognition 2025
+    conference_short: Arxiv
+    conference: Under Review
     pdf: https://arxiv.org/abs/2502.01662
     code: https://github.com/Kamichanw/Speculative-Ensemble
     image: ./assets/img/paper4.png
