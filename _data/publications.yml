@@ -24,8 +24,8 @@ main:
 
   - title: "Speculative Ensemble: Fast Large Language Model Ensemble via Speculation"
     authors: Jiale Fu*, Yuchu Jiang*, <strong>Junkai Chen</strong>, Jiaming Fan, Xin Geng, Xu Yang 
-    conference_short: Arxiv
-    conference: Under Review
+    conference_short: CVPR 2025
+    conference: Conference on Computer Vision and Pattern Recognition 2025
     pdf: https://arxiv.org/abs/2502.01662
     code: https://github.com/Kamichanw/Speculative-Ensemble
     image: ./assets/img/paper4.png
