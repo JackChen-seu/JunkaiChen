@@ -9,8 +9,8 @@ main:
 
   - title: "Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models"
     authors: Xin Zou, Yizhou Wang, Yibo Yan, Sirui Huang, Kening Zheng, <strong>Junkai Chen</strong>, Chang Tang, Xuming Hu
-    conference_short: Arxiv
-    conference: Under Review
+    conference_short: ICML 2025
+    conference: International Conference on Machine Learning 2025
     pdf: https://arxiv.org/pdf/2410.03577
     code: https://github.com/1zhou-Wang/MemVR
     image: ./assets/img/paper2.png
@@ -24,8 +24,8 @@ main:
 
   - title: "Speculative Ensemble: Fast Large Language Model Ensemble via Speculation"
     authors: Jiale Fu*, Yuchu Jiang*, <strong>Junkai Chen</strong>, Jiaming Fan, Xin Geng, Xu Yang 
-    conference_short: Arxiv
-    conference: Under Review
+    conference_short: ICML 2025
+    conference: International Conference on Machine Learning 2025
     pdf: https://arxiv.org/abs/2502.01662
     code: https://github.com/Kamichanw/Speculative-Ensemble
     image: ./assets/img/paper4.png
