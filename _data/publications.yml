@@ -20,6 +20,7 @@ main:
     conference_short: CVPR 2025
     conference: Conference on Computer Vision and Pattern Recognition 2025
     pdf: https://arxiv.org/pdf/2411.16724v1
+    code: https://github.com/ZhangqiJiang07/middle_layers_indicating_hallucinations
     image: ./assets/img/paper3.png
 
   - title: "Speculative Ensemble: Fast Large Language Model Ensemble via Speculation"
