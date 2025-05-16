@@ -26,6 +26,7 @@ I am seeking for **mphil or Phd position of 26fall**~
 - **[Feb. 2025]** 🔥We present the paper: **SAFEERASER: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning**.
 - **[Feb. 2025]** 🎉One paper has been accepted by CVPR 2025
 - **[May. 2025]** 🎉Two paper has been accepted by ICML 2025
+- **[May. 2025]** 🎉Two paper has been accepted by ACL Findings 2025
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
