@@ -2,8 +2,8 @@ main:
 
   - title: "Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models"
     authors: Kening Zheng*, <strong>Junkai Chen*</strong>, Yibo Yan, Xin Zou, Xuming Hu
-    conference_short: Arxiv
-    conference: Under Review
+    conference_short: ACL Findings
+    conference: Association for Computational Linguistics Findings 2025
     pdf: https://arxiv.org/pdf/2408.09429
     image: ./assets/img/paper1.png
 
@@ -33,7 +33,7 @@ main:
 
   - title: "SAFEERASER: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning"
     authors: <strong>Junkai Chen*</strong>, Zhijie Deng*, Kening Zheng, Yibo Yan
-    conference_short: Arxiv
-    conference: Under Review
+    conference_short: ACL Findings
+    conference: Association for Computational Linguistics Findings 2025
     pdf: https://arxiv.org/pdf/2502.12520
     image: ./assets/img/paper5.png
