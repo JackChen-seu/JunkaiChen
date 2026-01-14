@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I'm Junkai Chen, a third year undergraduate student from [School of Artificial Intelligence](https://ai.seu.edu.cn), [Southeast University](https://www.seu.edu.cn). My research interest includes Computer Vision, Multimodal Large Language Model, Machine Unlearning.
+I'm Junkai Chen, a forth year undergraduate student from [School of Artificial Intelligence](https://ai.seu.edu.cn), [Southeast University](https://www.seu.edu.cn). 
+
+I will begin my PhD studies at the Institute of Automation, Chinese Academy of Sciences in 2026, under the supervision of Professor [Wu](https://www.ia.cas.cn/rcdw/yjy/202404/t20240422_7129885.html).
 
 ## Research Interests
 
