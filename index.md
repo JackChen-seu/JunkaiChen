@@ -6,8 +6,6 @@ layout: homepage
 
 I'm Junkai Chen, a third year undergraduate student from [School of Artificial Intelligence](https://ai.seu.edu.cn), [Southeast University](https://www.seu.edu.cn). My research interest includes Computer Vision, Multimodal Large Language Model, Machine Unlearning.
 
-I am seeking for **mphil or Phd position of 26fall**~
-
 ## Research Interests
 
 - **Multimodal Large Language Model:** Hallucination, Interpretability, Machine Unlearning
