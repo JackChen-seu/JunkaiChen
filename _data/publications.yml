@@ -30,6 +30,7 @@ main:
     pdf: https://arxiv.org/abs/2502.01662
     code: https://github.com/Kamichanw/Speculative-Ensemble
     image: ./assets/img/paper4.png
+    blog: https://kamichanw.github.io/publication/2025-02-01-cos
     
   - title: "Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models"
     authors: Xin Zou, Yizhou Wang, Yibo Yan, Sirui Huang, Kening Zheng, <strong>Junkai Chen</strong>, Chang Tang, Xuming Hu
