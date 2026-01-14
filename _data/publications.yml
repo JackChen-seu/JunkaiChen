@@ -35,5 +35,6 @@ main:
     authors: <strong>Junkai Chen*</strong>, Zhijie Deng*, Kening Zheng, Yibo Yan
     conference_short: ACL Findings
     conference: Association for Computational Linguistics Findings
+    notes: Oral Presentation
     pdf: https://arxiv.org/pdf/2502.12520
     image: ./assets/img/paper5.png
