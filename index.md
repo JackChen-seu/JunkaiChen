@@ -20,7 +20,7 @@ I am seeking for **mphil or Phd position of 26fall**~
 - **[Feb. 2025]** 🎉One paper has been accepted by CVPR 2025.
 - **[May. 2025]** 🎉Two paper has been accepted by ICML 2025.
 - **[May. 2025]** 🎉Two paper has been accepted by ACL 2025.
-- **[Dec. 2025]** 🎉I was selected as **Star of Innovation**. This award is given to the **top 10** undergraduates excelling in scientific and innovative fields at my university. 🎉🎉🎉.
+- **[Dec. 2025]** 🎉I was selected as **Star of Innovation**. This award is given to the **top 10** undergraduates excelling in scientific and innovative fields at my university.
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
