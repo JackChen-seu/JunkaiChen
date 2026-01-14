@@ -6,6 +6,7 @@ main:
     conference: Association for Computational Linguistics <strong>(ACL)</strong>, 2025 Findings
     pdf: https://arxiv.org/pdf/2408.09429
     image: ./assets/img/paper1.png
+    code: https://github.com/JackChen-seu/Reefknot
 
   - title: "SAFEERASER: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning"
     authors: <strong>Junkai Chen*</strong>, Zhijie Deng*, Kening Zheng, Yibo Yan
