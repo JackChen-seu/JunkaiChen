@@ -5,6 +5,6 @@
 
 ## Mics
 
-<p>In my free time, I like to read, listen to music, watch movies, photography. You can find my recommendations for books, movies, and music <a href="https://www.douban.com/people/242359798/?_i=83910490hOB8I_,83912300hOB8I_">here</a>.
+<p>In my free time, I like to read, listen to music, watch movies, photography. You can find my recommendations <a href="https://www.douban.com/people/242359798/?_i=83910490hOB8I_,83912300hOB8I_">here</a>.
 
-<p>Meanwhile, I am deeply interested in machine consciousness and cognitive science. If you share the same interests, feel free to contact me for discussion.
+<p>Meanwhile, I am deeply interested in <strong>machine consciousness</strong> and <strong>cognitive science</strong>. If you share the same interests, feel free to contact me for discussion.
