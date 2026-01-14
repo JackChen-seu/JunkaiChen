@@ -2,39 +2,42 @@ main:
 
   - title: "Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models"
     authors: Kening Zheng*, <strong>Junkai Chen*</strong>, Yibo Yan, Xin Zou, Xuming Hu
-    conference_short: ACL Findings
-    conference: Association for Computational Linguistics Findings
+    conference_short: ACL
+    conference: Association for Computational Linguistics <strong>(ACL)</strong>, 2025 Findings
     pdf: https://arxiv.org/pdf/2408.09429
     image: ./assets/img/paper1.png
 
-  - title: "Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models"
-    authors: Xin Zou, Yizhou Wang, Yibo Yan, Sirui Huang, Kening Zheng, <strong>Junkai Chen</strong>, Chang Tang, Xuming Hu
-    conference_short: ICML
-    conference: International Conference on Machine Learning
-    pdf: https://arxiv.org/pdf/2410.03577
-    code: https://github.com/1zhou-Wang/MemVR
-    image: ./assets/img/paper2.png
+  - title: "SAFEERASER: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning"
+    authors: <strong>Junkai Chen*</strong>, Zhijie Deng*, Kening Zheng, Yibo Yan
+    conference_short: ACL
+    conference: Association for Computational Linguistics <strong>(ACL)</strong>, 2025 Findings
+    pdf: https://arxiv.org/pdf/2502.12520
+    image: ./assets/img/paper5.png
+    code: https://github.com/yuu250/SafeEraser
 
   - title: "Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens"
     authors: Zhangqi Jiang, <strong>Junkai Chen</strong>, Beier Zhu, Tingjin Luo, Yankun Shen, Xu Yang 
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    conference: Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2411.16724v1
     code: https://github.com/ZhangqiJiang07/middle_layers_indicating_hallucinations
     image: ./assets/img/paper3.png
-
+    
   - title: "Speculative Ensemble: Fast Large Language Model Ensemble via Speculation"
     authors: Jiale Fu*, Yuchu Jiang*, <strong>Junkai Chen</strong>, Jiaming Fan, Xin Geng, Xu Yang 
     conference_short: ICML
-    conference: International Conference on Machine Learning
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
     pdf: https://arxiv.org/abs/2502.01662
     code: https://github.com/Kamichanw/Speculative-Ensemble
     image: ./assets/img/paper4.png
+    
+  - title: "Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models"
+    authors: Xin Zou, Yizhou Wang, Yibo Yan, Sirui Huang, Kening Zheng, <strong>Junkai Chen</strong>, Chang Tang, Xuming Hu
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2410.03577
+    code: https://github.com/1zhou-Wang/MemVR
+    image: ./assets/img/paper2.png
 
-  - title: "SAFEERASER: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning"
-    authors: <strong>Junkai Chen*</strong>, Zhijie Deng*, Kening Zheng, Yibo Yan
-    conference_short: ACL Findings
-    conference: Association for Computational Linguistics Findings
-    pdf: https://arxiv.org/pdf/2502.12520
-    image: ./assets/img/paper5.png
-    code: https://github.com/yuu250/SafeEraser
+
+
