@@ -27,7 +27,7 @@ main:
     authors: Jiale Fu*, Yuchu Jiang*, <strong>Junkai Chen</strong>, Jiaming Fan, Xin Geng, Xu Yang 
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
-    pdf: https://arxiv.org/abs/2502.01662
+    pdf: https://arxiv.org/pdf/2502.01662
     code: https://github.com/Kamichanw/Speculative-Ensemble
     image: ./assets/img/paper4.png
     blog: https://kamichanw.github.io/publication/2025-02-01-cos
