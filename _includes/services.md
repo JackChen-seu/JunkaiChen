@@ -5,7 +5,7 @@
 
 ## Mics
 
-<p>In my free time, I like to read, listen to music, watch movies, photography. You can find my recommendations for books, movies, and music [here](https://www.douban.com/people/242359798/?_i=83910490hOB8I_,83912300hOB8I_).</p>
+<p>In my free time, I like to read, listen to music, watch movies, photography. You can find my recommendations for books, movies, and music <a href="https://www.douban.com/people/242359798/?_i=83910490hOB8I_,83912300hOB8I_">here</a>.
 
 <p>Some recommended movies:</p>
 
