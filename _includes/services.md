@@ -1,8 +1,7 @@
 ## Internship
 
-**[Jun. 2024 - Aug. 2024]** HKUST (GZ) Supervised by Prof.Hu
-
-I am seeking a winter and summer internship or visitor student position for 2026~
+**[Jun. 2024 - Aug. 2024]** Hong Kong University of Science and Technology(GZ) Supervised by Prof.Hu
+**[Jan. 2025 - Mar. 2025]** Westlake University Supervised by Prof.Zhang
 
 ## Mics
 
