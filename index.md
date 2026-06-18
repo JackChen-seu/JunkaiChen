@@ -23,7 +23,7 @@ I will begin my PhD studies at Institute of Automation, Chinese Academy of Scien
 - **[May. 2025]** 🎉 Two paper has been accepted by ACL 2025.
 - **[Sep. 2025]** 📖 Will commence doctoral studies at the Institute of Automation, Chinese Academy of Sciences, in September 2026.
 - **[Dec. 2025]** 🎉 Selected as **Academic Star**. an award presented to the **top 10** undergraduates excelling in academic fields at my university.
-- **[Feb. 2026]** 🎉 Joined Bytedance as an intern.
+- **[Feb. 2026]** 📑 Joined **Bytedance** as an intern.
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
