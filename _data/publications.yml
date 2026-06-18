@@ -1,12 +1,10 @@
 main:
 
-  - title: "Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models"
-    authors: Kening Zheng*, <strong>Junkai Chen*</strong>, Yibo Yan, Xin Zou, Xuming Hu
-    conference_short: ACL
-    conference: Association for Computational Linguistics <strong>(ACL)</strong>, 2025 Findings
-    pdf: https://arxiv.org/pdf/2408.09429
-    image: ./assets/img/paper1.png
-    code: https://github.com/JackChen-seu/Reefknot
+  - title: "Visual-Noise Guided In-Context Distillation for Multimodal Large Language Model Unlearning"
+    authors: <strong>Junkai Chen</strong>, Yuhao He, Junxiang You, Ruiqi Liu, Chenyu Wang, Shu Wu
+    conference: Under Review.
+    pdf: https://arxiv.org/pdf/2606.00105
+    image: ./assets/img/paper6.png
 
   - title: "SAFEERASER: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning"
     authors: <strong>Junkai Chen*</strong>, Zhijie Deng*, Kening Zheng, Yibo Yan
@@ -15,6 +13,14 @@ main:
     pdf: https://arxiv.org/pdf/2502.12520
     image: ./assets/img/paper5.png
     code: https://github.com/yuu250/SafeEraser
+
+  - title: "Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models"
+    authors: Kening Zheng*, <strong>Junkai Chen*</strong>, Yibo Yan, Xin Zou, Xuming Hu
+    conference_short: ACL
+    conference: Association for Computational Linguistics <strong>(ACL)</strong>, 2025 Findings
+    pdf: https://arxiv.org/pdf/2408.09429
+    image: ./assets/img/paper1.png
+    code: https://github.com/JackChen-seu/Reefknot
 
   - title: "Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens"
     authors: Zhangqi Jiang, <strong>Junkai Chen</strong>, Beier Zhu, Tingjin Luo, Yankun Shen, Xu Yang 
@@ -32,12 +38,6 @@ main:
     code: https://github.com/Kamichanw/Speculative-Ensemble
     image: ./assets/img/paper4.png
     blog: https://kamichanw.github.io/publication/2025-02-01-cos
-    
-  - title: "Visual-Noise Guided In-Context Distillation for Multimodal Large Language Model Unlearning"
-    authors: <strong>Junkai Chen</strong>, Yuhao He, Junxiang You, Ruiqi Liu, Chenyu Wang, Shu Wu
-    conference: Under Review.
-    pdf: https://arxiv.org/pdf/2606.00105
-    image: ./assets/img/paper2.png
 
 
 
