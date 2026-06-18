@@ -6,7 +6,7 @@ layout: homepage
 
 I'm Junkai Chen, a forth year undergraduate student from [School of Artificial Intelligence](https://ai.seu.edu.cn), [Southeast University](https://www.seu.edu.cn). 
 
-I will begin my PhD studies at the Institute of Automation, Chinese Academy of Sciences in 2026, under the supervision of Professor [Wu](https://www.ia.cas.cn/rcdw/yjy/202404/t20240422_7129885.html).
+I will begin my PhD studies at Institute of Automation, Chinese Academy of Sciences in 2026, under the supervision of Professor [Wu](https://www.ia.cas.cn/rcdw/yjy/202404/t20240422_7129885.html).
 
 ## Research Interests
 
@@ -16,12 +16,14 @@ I will begin my PhD studies at the Institute of Automation, Chinese Academy of S
 
 ## News
    
-- **[Jun. 2024]** 📚I am affiliated with Hong Kong University of Science and Technology(GZ) as a visiting student under the supervision of Professor Hu.
-- **[Jan. 2025]** 📚I am affiliated with Westlake University as a visiting student under the supervision of Professor Zhang.
-- **[Feb. 2025]** 🎉One paper has been accepted by CVPR 2025.
-- **[May. 2025]** 🎉Two paper has been accepted by ICML 2025.
-- **[May. 2025]** 🎉Two paper has been accepted by ACL 2025.
-- **[Dec. 2025]** 🎉I was selected as **Academic Star**. This award is given to the **top 10** undergraduates excelling in academic fields at my university.
+- **[Jun. 2024]** 📚 Joined The Hong Kong University of Science and Technology (Guangzhou) as a visiting student under the supervision of Professor Hu.
+- **[Jan. 2025]** 📚 Joined Westlake University as a visiting student under the supervision of Professor Zhang.
+- **[Feb. 2025]** 🎉 One paper has been accepted by CVPR 2025.
+- **[May. 2025]** 🎉 Two paper has been accepted by ICML 2025.
+- **[May. 2025]** 🎉 Two paper has been accepted by ACL 2025.
+- **[Sep. 2025]** 📖 Will commence doctoral studies at the Institute of Automation, Chinese Academy of Sciences, in September 2026.
+- **[Dec. 2025]** 🎉 Selected as **Academic Star**. an award presented to the **top 10** undergraduates excelling in academic fields at my university.
+- **[Feb. 2026]** 🎉 Joined Bytedance as an intern.
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
