@@ -1,7 +1,7 @@
 main:
 
   - title: "Visual-Noise Guided In-Context Distillation for Multimodal Large Language Model Unlearning"
-    authors: <strong>Junkai Chen</strong>, Yuhao He, Junxiang You, Ruiqi Liu, Chenyu Wang, Shu Wu
+    authors: <strong>Junkai Chen*</strong>, Yuhao He*, Junxiang You, Ruiqi Liu, Chenyu Wang, Shu Wu
     conference: Under Review.
     pdf: https://arxiv.org/pdf/2606.00105
     image: ./assets/img/paper6.png
