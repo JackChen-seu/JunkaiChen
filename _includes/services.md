@@ -2,6 +2,7 @@
 
 **[Jun. 2024 - Aug. 2024]** Hong Kong University of Science and Technology(GZ) Supervised by [Prof.Hu](https://xuminghu.github.io)
 **[Jan. 2025 - Mar. 2025]** Westlake University Supervised by [Prof.Zhang](https://icoz69.github.io)
+**[Feb. 2026 - Present]** AI Algorithm Intern, ByteDance Fanqie Team
 
 ## Mics
 
